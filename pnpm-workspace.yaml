@@ -1,0 +1,3 @@
+# 规定包都在哪个目录下管理
+packages:
+  - "packages/*"
